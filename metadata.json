@@ -1,0 +1,6 @@
+{
+  "name": "UniMarket.ng - Nigerian Campus Student Marketplace",
+  "description": "Safe, verified peer-to-peer student marketplace for Nigerian universities. Features matriculation badge verification, designated campus safe zones, direct WhatsApp & in-app chat, and campus escrow handoffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
